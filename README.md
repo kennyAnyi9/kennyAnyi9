@@ -1,4 +1,4 @@
-[![MasterHead](your image link)](github.com/kennyAnyi9)
+
 
 - 🔭 I’m currently working on something really cool
 - 🌱 I’m currently learning TypeScript
@@ -6,7 +6,7 @@
 - 🤔 I’m looking for help with a whole bunch of stuff
 - 💬 Ask me about neuroscience
 - 📫 How to reach me: kennyanyi9@gmail.com
-- 👨🏿‍💻 Veiw my portfolio: https://kennyanyi.me
+- 👨🏿‍💻 Veiw my portfolio: kennyanyi.me
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I spend a lot of time reading about neuroscience
 
