@@ -1,4 +1,4 @@
-### Hi there 👋
+[![MasterHead](your image link)](github.com/kennyAnyi9)
 
 - 🔭 I’m currently working on something really cool
 - 🌱 I’m currently learning TypeScript
