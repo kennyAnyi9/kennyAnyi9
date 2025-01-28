@@ -1,7 +1,7 @@
 <div align="center">
 
 # Kennedy Anyidoho
-### Full Stack Software Engineer
+### Full-Stack Software Engineer
 
 ```
 Building digital experiences | Making the web more beautiful
