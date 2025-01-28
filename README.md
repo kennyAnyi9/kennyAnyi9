@@ -17,13 +17,13 @@ Building digital experiences | Making the web more beautiful
 
 ```bash
 const developer = {
-    name: 'Kenny Anyi',
+    name: 'Kennedy Anyidoho',
     location: 'Planet Earth',
-    role: 'Full Stack Developer',
-    focus: 'Neural Networks & Web Development',
+    role: 'Full-Stack Developer',
+    focus: 'Software Engineering',
     
     expertise: {
-        languages: ['TypeScript', 'JavaScript', 'Python', 'Java'],
+        languages: ['TypeScript', 'JavaScript', 'Python', 'Java', c++],
         frontend: ['React', 'Next.js', 'TailwindCSS'],
         backend: ['Node.js', 'Express', 'Flask'],
         databases: ['MongoDB', 'PostgreSQL', 'Supabase']
@@ -31,8 +31,7 @@ const developer = {
     
     currentProjects: [
         'Mastering TypeScript',
-        'Building Next.js Applications',
-        'Exploring Brain-Computer Interfaces'
+        'Building Next.js Applications'
     ]
 };
 ```
