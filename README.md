@@ -3,7 +3,7 @@
 # Kennedy Anyidoho
 ### Full-Stack Software Engineer
 
-```
+```bash
 Building digital experiences | Making the web more beautiful
 ```
 
@@ -15,7 +15,7 @@ Building digital experiences | Making the web more beautiful
 
 ## About Me
 
-```typescript
+```bash
 const developer = {
     name: 'Kenny Anyi',
     location: 'Planet Earth',
